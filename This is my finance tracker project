@@ -1,0 +1,4 @@
+echo "This is my finance tracker project" >> README.md
+git add README.md
+git commit -m "Added project description"
+git push origin main
